@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683b8509-fae9-4a6c-a3a4-4aea87b30bdd" name="Changes" comment="Homework4 is completed" />
+    <list default="true" id="683b8509-fae9-4a6c-a3a4-4aea87b30bdd" name="Changes" comment="Homework4 is completed.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumberManipulator">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="Homework_04" />
@@ -66,9 +68,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.NumberManipulator" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696278208345</updated>
       <workItem from="1696278209515" duration="5138000" />
-      <workItem from="1696615467951" duration="6526000" />
+      <workItem from="1696615467951" duration="7196000" />
     </task>
     <task id="LOCAL-00001" summary="Homework4 is completed">
       <option name="closed" value="true" />
@@ -91,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696621747779</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework4 is completed.">
+      <option name="closed" value="true" />
+      <created>1696622277123</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696622277123</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework4 is completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework4 is completed" />
+    <MESSAGE value="Homework4 is completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework4 is completed." />
   </component>
 </project>
