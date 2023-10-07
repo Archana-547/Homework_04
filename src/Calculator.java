@@ -1,6 +1,5 @@
 public class Calculator {
 
-
     public int addition(int num1, int num2) {
         return num1 + num2;
     }
@@ -9,12 +8,6 @@ public class Calculator {
         return num1 > num2;
 
     }
-
-
-
-
-
-
 
     public static void main(String[] args) {
         //Create an instance of the Calculator class
